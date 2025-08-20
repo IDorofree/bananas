@@ -17,6 +17,6 @@ Day 3 - 19.08.2025
 Узнал, кто я? whoami, who, id 
 Перекинул в группы пользователей: sudo usermod -aG (-a -добавить в новую группу, не удаляя из старой, G - группа) testgroup testuser, groups ( посмотрел, в каких группах состоит пользователь)
 Еще раз поигрался с правами: 600, 777
+Узнал про время в системе - date, timedatectl (часовой пояс), timedatectl list-timezones, sudo timedatectl set-timezone Europe/Moscow.
 
-
-
+Day 4 - 20.08.2025
